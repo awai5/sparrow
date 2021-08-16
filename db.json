@@ -1,0 +1,40 @@
+{
+  "collection_items": [
+    "urns": [
+      {
+        "id": 1,
+        "image_url": "https://cdn.shopify.com/s/files/1/0069/6709/9465/articles/art_urns4122_1200x.jpg",
+        "item_name": "Natural Light Texture Urn",
+        "item_price": "4,390"
+      },
+      {
+        "id": 2,
+        "image_url": "https://www.memorial-urns.com/images/P/Blackberry%20Raku%20Urn.jpg",
+        "item_name": "Beach Glass Navy Urn",
+        "item_price": "3,790"
+      }
+    ],
+    "caskets": [
+      {
+        "id": 1,
+        "image_url": "https://i.pinimg.com/originals/aa/92/c2/aa92c261c5243d2ff5f5c2cabee71211.jpg",
+        "item_name": "Casket Name 1",
+        "item_price": "390"
+      },
+      {
+        "id": 2,
+        "image_url": "https://i.pinimg.com/originals/aa/92/c2/aa92c261c5243d2ff5f5c2cabee71211.jpg",
+        "item_name": "Casket Name 2",
+        "item_price": "790"
+      }
+    ],
+    "shrouds": [
+      {
+         "id": 1,
+        "image_url": "https://cdn.shopify.com/s/files/1/0002/6342/1963/products/Willlow_Carrier_With_Shroud_preview_e853eac4-6232-45c2-8bac-7899fc99556d_grande.jpeg",
+        "item_name": "Shroud 1",
+        "item_price": "220"
+      }  
+    ]
+  ]
+}
