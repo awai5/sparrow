@@ -30,7 +30,13 @@
     ],
     "shrouds": [
       {
-         "id": 1,
+        "id": 1,
+        "image_url": "https://cdn.shopify.com/s/files/1/0002/6342/1963/products/Willlow_Carrier_With_Shroud_preview_e853eac4-6232-45c2-8bac-7899fc99556d_grande.jpeg",
+        "item_name": "Shroud 1",
+        "item_price": "220"
+      },
+      {
+        "id": 1,
         "image_url": "https://cdn.shopify.com/s/files/1/0002/6342/1963/products/Willlow_Carrier_With_Shroud_preview_e853eac4-6232-45c2-8bac-7899fc99556d_grande.jpeg",
         "item_name": "Shroud 1",
         "item_price": "220"
