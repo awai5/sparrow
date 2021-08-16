@@ -1,5 +1,5 @@
 {
-  "collection_items": [
+  "collection_items": {
     "urns": [
       {
         "id": 1,
@@ -36,5 +36,5 @@
         "item_price": "220"
       }  
     ]
-  ]
+  }
 }
